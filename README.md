@@ -9,18 +9,16 @@
 
 - My Tech Stack
 
-  Python
+  Python  JavaScript
 
-  Django
+  NodeJS  Django
 
-  Flask
+  React   Flask
 
-  JavaScript
 
-  NodeJS
+  
 
-  React
-
+  
   HTML/CSS
 
   C++
