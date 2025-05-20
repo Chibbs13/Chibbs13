@@ -9,11 +9,17 @@
 
 - My Tech Stack
 
-  Python  JavaScript
+  Python
 
-  NodeJS  Django
+  Django
 
-  React   Flask
+  Flask  
+
+  JavaScript
+
+  React
+
+  NodeJS
 
 
   
