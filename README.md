@@ -11,26 +11,14 @@
 
   Python
 
-  Django
-
-  Flask  
-
-  JavaScript
-
-  React
-
-  NodeJS
-
-
-  
-
-  
-  HTML/CSS
+  Javascript
 
   C++
 
-  Flutter
 
-- Lets get in touch
+  
+
+  
+ 
 
   
